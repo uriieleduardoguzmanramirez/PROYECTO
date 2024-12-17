@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Grafo
+comment1.params=
+comment1.target=Grafo()
+comment2.params=pelicula\ genero
+comment2.target=void\ agregarRelacion(java.lang.String,\ java.lang.String)
+comment3.params=nombre
+comment3.target=NodoGrafo\ obtenerNodoPelicula(java.lang.String)
+comment4.params=nodo
+comment4.target=void\ agregarNodo(NodoGrafo)
+comment5.params=
+comment5.target=void\ imprimirRelaciones()
+comment6.params=genero
+comment6.target=void\ consultarPeliculasPorGenero(java.lang.String)
+numComments=7

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=peliculas
+comment1.params=nombre\ genero\ director\ pais\ duracion
+comment1.target=peliculas(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ long)
+comment10.params=
+comment10.target=java.lang.String\ toCSV()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getGenero()
+comment4.params=
+comment4.target=java.lang.String\ getDirector()
+comment5.params=
+comment5.target=java.lang.String\ getPais()
+comment6.params=
+comment6.target=long\ getDuracion()
+comment7.params=otraPelicula
+comment7.target=int\ compareTo(peliculas)
+comment8.params=otraPelicula
+comment8.target=int\ compareNombre(peliculas)
+comment9.params=otraPelicula
+comment9.target=int\ compareDuration(peliculas)
+numComments=12

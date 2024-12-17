@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Arista
+comment1.params=destino
+comment1.target=Arista(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getDestino()
+comment3.params=siguiente
+comment3.target=void\ setSiguiente(Arista)
+comment4.params=
+comment4.target=Arista\ getSiguiente()
+numComments=5

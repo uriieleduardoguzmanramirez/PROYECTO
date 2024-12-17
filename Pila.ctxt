@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pila
+comment1.params=capacidad
+comment1.target=Pila(int)
+comment2.params=
+comment2.target=boolean\ estaVacia()
+comment3.params=
+comment3.target=boolean\ estaLlena()
+comment4.params=pelicula
+comment4.target=void\ push(peliculas)
+comment5.params=
+comment5.target=peliculas\ Pop()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=NodoDoble
+comment1.params=dato
+comment1.target=NodoDoble(java.lang.String)
+comment2.params=dato
+comment2.target=void\ setDato(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDato()
+comment4.params=anterior
+comment4.target=void\ setAnterior(NodoDoble)
+comment5.params=
+comment5.target=NodoDoble\ getAnterior()
+comment6.params=siguiente
+comment6.target=void\ setSiguiente(NodoDoble)
+comment7.params=
+comment7.target=NodoDoble\ getSiguiente()
+numComments=8
